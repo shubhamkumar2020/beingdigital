@@ -666,7 +666,7 @@ welcome
   width: 100%;
   height: 100vh;
   min-height: 793px;
-  background-image: url(../images/);
+  background-image: url(../images/now2.jpg);
   background-color: #9d74fd;
   background-repeat: no-repeat;
   background-position: right top;
@@ -691,7 +691,7 @@ welcome
 
 .welcome-area .header-text h1 em {
   font-style: normal;
-  color: #fba70b;
+  color: #ee0000;
 }
 
 .welcome-area .header-text p {
